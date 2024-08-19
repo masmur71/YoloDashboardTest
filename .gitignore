@@ -1,0 +1,53 @@
+# Node.js
+node_modules/               # Direktori yang berisi dependensi Node.js
+npm-debug.log               # File log debug dari npm
+yarn-error.log              # File error log dari yarn
+.env                        # File environment variables, jika digunakan untuk menyimpan konfigurasi rahasia
+*.log                       # Semua file log
+
+# Python
+__pycache__/                # Direktori cache Python
+*.pyc                       # File bytecode Python
+*.pyo                       # File optimized Python
+*.pyd                       # File binary Python (Windows)
+venv/                       # Direktori virtual environment untuk Python
+env/                        # Direktori virtual environment lain
+*.egg-info/                 # Metadata distribusi Python
+pip-log.txt                 # File log dari pip
+pip-delete-this-directory.txt # File log pip saat terjadi kesalahan
+
+# IDEs dan Editor
+.vscode/                    # Direktori untuk pengaturan editor Visual Studio Code
+.idea/                      # Direktori untuk pengaturan IDE JetBrains (seperti PyCharm, WebStorm)
+*.swp                       # File swap dari Vim
+*.swo                       # File swap lainnya dari Vim
+*.sublime-project           # File proyek Sublime Text
+*.sublime-workspace         # File workspace Sublime Text
+
+# Sistem Operasi
+.DS_Store                   # File sistem operasi macOS
+Thumbs.db                   # File sistem operasi Windows
+ehthumbs.db                 # File sistem operasi Windows
+Desktop.ini                 # File konfigurasi Windows
+$RECYCLE.BIN/               # Direktori recycle bin Windows
+
+# Logs
+logs/                       # Direktori untuk file log
+*.log                       # Semua file log
+npm-debug.log*              # File debug dari npm
+yarn-debug.log*             # File debug dari yarn
+yarn-error.log*             # File error dari yarn
+
+# Dependency directories
+node_modules/               # Direktori dependensi Node.js
+/.pnp                       # File untuk PnP Yarn
+.pnp.js                     # File untuk PnP Yarn
+
+# Direktori Output
+dist/                       # Direktori build atau distribusi akhir (opsional, tergantung pada struktur proyek)
+build/                      # Direktori build (opsional)
+tmp/                        # Direktori sementara (opsional)
+temp/                       # Direktori sementara (opsional)
+
+# Database
+*.sql                       # File dump SQL, jika ada

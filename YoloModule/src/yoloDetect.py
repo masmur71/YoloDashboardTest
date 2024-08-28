@@ -6,7 +6,7 @@ import logging
 from datetime import datetime
 from ultralytics import YOLO
 import requests
-import mysql.connector  # Menggunakan mysql-connector-python
+import mysql.connector  
 
 # Setup logging
 logging.basicConfig(
@@ -75,7 +75,7 @@ while True:
                 if cls == "person":
                     frame_people_count += 1
 
-                # Accumulate detection information
+                # akumulasi informasi deteksi
                 if cls in detection_summary:
                     detection_summary[cls] += 1
                 else:
@@ -90,15 +90,15 @@ while True:
                 cv2.putText(frame, cls, (x1, y1 - 10), cv2.FONT_HERSHEY_SIMPLEX, 0.9, (36, 255, 12), 2)
                 cv2.rectangle(frame, (x1, y1), (x2, y2), (36, 255, 12), 2)
 
-        # Accumulate the number of people detected
+        # jumlah people count
         people_count += frame_people_count
 
-        # Display the frame with detections
+        # tampil frame
         cv2.imshow('YOLOv8 Detection', frame)
 
-    # Save detection results every 5 minutes
+    # simpan hasil deteksi setiap 5 menit
     if time.time() - save_time > SAVE_INTERVAL:
-        # Save the accumulated data to MySQL
+        # simpan ke sql
         try:
             for label, count in detection_summary.items():
                 cursor.execute("""
@@ -111,12 +111,12 @@ while True:
             logging.error(f"Error saat menyimpan data ke MySQL: {e}")
             db_connection.rollback()
 
-        # Clear the accumulated data and reset timers
+        # clear data akumulasi dan reset waktu(setiap 5 menit)
         detection_summary = {}
         people_count = 0
-        save_time = time.time()  # Reset save_time after saving
+        save_time = time.time()  # <<<<< Reset waktu
 
-    # Exit on pressing 'q'
+    # Exit program saat tekan 'q'
     if cv2.waitKey(1) & 0xFF == ord('q'):
         logging.info("Deteksi dihentikan oleh pengguna.")
         break

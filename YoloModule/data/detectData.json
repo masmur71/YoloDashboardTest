@@ -1,0 +1,65 @@
+{
+    "total_people_count": 10,
+    "detections": [
+        {
+            "label": "person",
+            "confidence": 0.8519191145896912,
+            "timestamp": "2024-08-19 13:07:35"
+        },
+        {
+            "label": "cell phone",
+            "confidence": 0.5615155696868896,
+            "timestamp": "2024-08-19 13:07:35"
+        },
+        {
+            "label": "person",
+            "confidence": 0.8800870776176453,
+            "timestamp": "2024-08-19 13:07:36"
+        },
+        {
+            "label": "cell phone",
+            "confidence": 0.4309956431388855,
+            "timestamp": "2024-08-19 13:07:36"
+        },
+        {
+            "label": "person",
+            "confidence": 0.8837604522705078,
+            "timestamp": "2024-08-19 13:07:37"
+        },
+        {
+            "label": "person",
+            "confidence": 0.8880245089530945,
+            "timestamp": "2024-08-19 13:07:38"
+        },
+        {
+            "label": "person",
+            "confidence": 0.8752674460411072,
+            "timestamp": "2024-08-19 13:07:39"
+        },
+        {
+            "label": "person",
+            "confidence": 0.8871971368789673,
+            "timestamp": "2024-08-19 13:07:40"
+        },
+        {
+            "label": "person",
+            "confidence": 0.8922352194786072,
+            "timestamp": "2024-08-19 13:07:41"
+        },
+        {
+            "label": "person",
+            "confidence": 0.9002748727798462,
+            "timestamp": "2024-08-19 13:07:42"
+        },
+        {
+            "label": "person",
+            "confidence": 0.9015713334083557,
+            "timestamp": "2024-08-19 13:07:43"
+        },
+        {
+            "label": "person",
+            "confidence": 0.8980921506881714,
+            "timestamp": "2024-08-19 13:07:44"
+        }
+    ]
+}

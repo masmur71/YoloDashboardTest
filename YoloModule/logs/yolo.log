@@ -1,0 +1,59 @@
+2024-08-30 11:04:25 INFO: Deteksi dimulai.
+2024-08-30 11:04:30 INFO: Deteksi objek 'person' dengan confidence 0.9050482511520386.
+2024-08-30 11:04:30 INFO: Deteksi objek 'person' dengan confidence 0.9044100642204285.
+2024-08-30 11:04:30 INFO: Deteksi objek 'person' dengan confidence 0.9040988683700562.
+2024-08-30 11:04:30 INFO: Deteksi objek 'person' dengan confidence 0.841297447681427.
+2024-08-30 11:04:30 INFO: Deteksi objek 'tie' dengan confidence 0.5783435106277466.
+2024-08-30 11:04:30 INFO: Deteksi objek 'tie' dengan confidence 0.4398478865623474.
+2024-08-30 11:04:32 INFO: Deteksi objek 'person' dengan confidence 0.9067820310592651.
+2024-08-30 11:04:32 INFO: Deteksi objek 'person' dengan confidence 0.8723666667938232.
+2024-08-30 11:04:32 INFO: Deteksi objek 'tie' dengan confidence 0.6419661045074463.
+2024-08-30 11:04:33 INFO: Deteksi objek 'person' dengan confidence 0.8874608874320984.
+2024-08-30 11:04:33 INFO: Deteksi objek 'person' dengan confidence 0.814944326877594.
+2024-08-30 11:04:33 INFO: Deteksi objek 'tie' dengan confidence 0.3854060471057892.
+2024-08-30 11:04:34 INFO: Deteksi objek 'person' dengan confidence 0.7079281210899353.
+2024-08-30 11:04:34 INFO: Deteksi objek 'hot dog' dengan confidence 0.6784602999687195.
+2024-08-30 11:04:34 INFO: Deteksi objek 'person' dengan confidence 0.4593833386898041.
+2024-08-30 11:04:35 INFO: Deteksi objek 'person' dengan confidence 0.6770471930503845.
+2024-08-30 11:04:35 INFO: Deteksi objek 'person' dengan confidence 0.602948009967804.
+2024-08-30 11:04:35 INFO: Deteksi objek 'person' dengan confidence 0.3179893493652344.
+2024-08-30 11:04:35 INFO: Data akumulasi berhasil disimpan ke database MySQL.
+2024-08-30 11:04:36 INFO: Deteksi objek 'person' dengan confidence 0.6789367198944092.
+2024-08-30 11:04:36 INFO: Deteksi objek 'person' dengan confidence 0.41045019030570984.
+2024-08-30 11:04:36 INFO: Deteksi objek 'person' dengan confidence 0.39027324318885803.
+2024-08-30 11:04:36 INFO: Deteksi objek 'cell phone' dengan confidence 0.2739013731479645.
+2024-08-30 11:04:36 INFO: Deteksi objek 'remote' dengan confidence 0.27074432373046875.
+2024-08-30 11:04:37 INFO: Deteksi objek 'person' dengan confidence 0.6092378497123718.
+2024-08-30 11:04:37 INFO: Deteksi objek 'person' dengan confidence 0.36622610688209534.
+2024-08-30 11:04:37 INFO: Deteksi objek 'person' dengan confidence 0.3486514389514923.
+2024-08-30 11:04:38 INFO: Deteksi objek 'person' dengan confidence 0.7643357515335083.
+2024-08-30 11:04:38 INFO: Deteksi objek 'cell phone' dengan confidence 0.4755229353904724.
+2024-08-30 11:04:38 INFO: Deteksi objek 'cell phone' dengan confidence 0.3948339819908142.
+2024-08-30 11:04:38 INFO: Deteksi objek 'cell phone' dengan confidence 0.3612719476222992.
+2024-08-30 11:04:39 INFO: Deteksi objek 'person' dengan confidence 0.8842138051986694.
+2024-08-30 11:04:39 INFO: Deteksi objek 'person' dengan confidence 0.7733396291732788.
+2024-08-30 11:04:40 INFO: Deteksi objek 'person' dengan confidence 0.8802402019500732.
+2024-08-30 11:04:40 INFO: Deteksi objek 'person' dengan confidence 0.8193467259407043.
+2024-08-30 11:04:41 INFO: Deteksi objek 'person' dengan confidence 0.7789188027381897.
+2024-08-30 11:04:41 INFO: Deteksi objek 'person' dengan confidence 0.7412031292915344.
+2024-08-30 11:04:41 INFO: Deteksi objek 'cell phone' dengan confidence 0.7097216844558716.
+2024-08-30 11:04:42 INFO: Deteksi objek 'person' dengan confidence 0.7972126007080078.
+2024-08-30 11:04:42 INFO: Deteksi objek 'person' dengan confidence 0.7235514521598816.
+2024-08-30 11:04:43 INFO: Deteksi objek 'person' dengan confidence 0.8326138854026794.
+2024-08-30 11:04:44 INFO: Deteksi objek 'person' dengan confidence 0.8847754001617432.
+2024-08-30 11:04:45 INFO: Deteksi objek 'person' dengan confidence 0.9055007696151733.
+2024-08-30 11:04:45 INFO: Deteksi objek 'person' dengan confidence 0.878587543964386.
+2024-08-30 11:04:45 INFO: Data akumulasi berhasil disimpan ke database MySQL.
+2024-08-30 11:04:46 INFO: Deteksi objek 'person' dengan confidence 0.8964117765426636.
+2024-08-30 11:04:46 INFO: Deteksi objek 'person' dengan confidence 0.8511698246002197.
+2024-08-30 11:04:47 INFO: Deteksi objek 'person' dengan confidence 0.8572520017623901.
+2024-08-30 11:04:47 INFO: Deteksi objek 'person' dengan confidence 0.782199501991272.
+2024-08-30 11:04:48 INFO: Deteksi objek 'person' dengan confidence 0.8593288064002991.
+2024-08-30 11:04:48 INFO: Deteksi objek 'person' dengan confidence 0.7336927056312561.
+2024-08-30 11:04:49 INFO: Deteksi objek 'person' dengan confidence 0.8754085898399353.
+2024-08-30 11:04:49 INFO: Deteksi objek 'person' dengan confidence 0.8168796896934509.
+2024-08-30 11:04:50 INFO: Deteksi objek 'person' dengan confidence 0.8294185400009155.
+2024-08-30 11:04:50 INFO: Deteksi objek 'person' dengan confidence 0.8267241716384888.
+2024-08-30 11:04:50 INFO: Deteksi objek 'tie' dengan confidence 0.2715245485305786.
+2024-08-30 11:04:50 INFO: Deteksi dihentikan oleh pengguna.
+2024-08-30 11:04:50 INFO: Deteksi berakhir.

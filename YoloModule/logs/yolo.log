@@ -57,3 +57,115 @@
 2024-08-30 11:04:50 INFO: Deteksi objek 'tie' dengan confidence 0.2715245485305786.
 2024-08-30 11:04:50 INFO: Deteksi dihentikan oleh pengguna.
 2024-08-30 11:04:50 INFO: Deteksi berakhir.
+2024-10-16 16:30:40 INFO: Deteksi dimulai.
+2024-10-16 16:30:50 INFO: Data akumulasi berhasil disimpan ke database MySQL.
+2024-10-16 16:30:55 INFO: Deteksi dihentikan oleh pengguna.
+2024-10-16 16:30:55 INFO: Deteksi berakhir.
+2024-10-16 22:06:26 INFO: Deteksi dimulai.
+2024-10-16 22:06:33 INFO: Deteksi objek 'person' dengan confidence 0.8586161136627197.
+2024-10-16 22:06:33 INFO: Deteksi objek 'airplane' dengan confidence 0.34725210070610046.
+2024-10-16 22:06:33 INFO: Deteksi objek 'person' dengan confidence 0.871873676776886.
+2024-10-16 22:06:34 INFO: Deteksi objek 'person' dengan confidence 0.8864961266517639.
+2024-10-16 22:06:34 INFO: Deteksi objek 'airplane' dengan confidence 0.532555341720581.
+2024-10-16 22:06:35 INFO: Deteksi objek 'person' dengan confidence 0.8409332633018494.
+2024-10-16 22:06:36 INFO: Deteksi objek 'person' dengan confidence 0.8911020159721375.
+2024-10-16 22:06:37 INFO: Deteksi objek 'person' dengan confidence 0.8690189123153687.
+2024-10-16 22:06:38 INFO: Deteksi objek 'person' dengan confidence 0.9104633927345276.
+2024-10-16 22:06:39 INFO: Deteksi objek 'person' dengan confidence 0.853236973285675.
+2024-10-16 22:06:41 INFO: Deteksi objek 'person' dengan confidence 0.8068482279777527.
+2024-10-16 22:06:41 INFO: Deteksi objek 'person' dengan confidence 0.5260937809944153.
+2024-10-16 22:06:41 INFO: Deteksi objek 'person' dengan confidence 0.6179881691932678.
+2024-10-16 22:06:41 INFO: Deteksi objek 'person' dengan confidence 0.45611995458602905.
+2024-10-16 22:06:41 INFO: Deteksi objek 'person' dengan confidence 0.3753989636898041.
+2024-10-16 22:06:42 INFO: Deteksi objek 'person' dengan confidence 0.666275143623352.
+2024-10-16 22:06:42 INFO: Deteksi objek 'person' dengan confidence 0.581062376499176.
+2024-10-16 22:06:42 INFO: Deteksi objek 'person' dengan confidence 0.5693333745002747.
+2024-10-16 22:06:42 INFO: Deteksi objek 'person' dengan confidence 0.377673476934433.
+2024-10-16 22:06:42 INFO: Deteksi objek 'skis' dengan confidence 0.3684353530406952.
+2024-10-16 22:06:43 INFO: Deteksi objek 'person' dengan confidence 0.48593148589134216.
+2024-10-16 22:06:43 INFO: Deteksi objek 'person' dengan confidence 0.308929443359375.
+2024-10-16 22:06:44 INFO: Deteksi objek 'person' dengan confidence 0.6874691843986511.
+2024-10-16 22:06:45 INFO: Deteksi objek 'person' dengan confidence 0.7851606607437134.
+2024-10-16 22:06:47 INFO: Deteksi objek 'person' dengan confidence 0.902593195438385.
+2024-10-16 22:06:48 INFO: Deteksi objek 'person' dengan confidence 0.7898638844490051.
+2024-10-16 22:06:48 INFO: Deteksi objek 'cat' dengan confidence 0.34595659375190735.
+2024-10-16 22:06:49 INFO: Deteksi objek 'person' dengan confidence 0.9192126989364624.
+2024-10-16 22:06:50 INFO: Deteksi objek 'person' dengan confidence 0.9033543467521667.
+2024-10-16 22:06:50 INFO: Deteksi objek 'airplane' dengan confidence 0.33074188232421875.
+2024-10-16 22:06:51 INFO: Deteksi objek 'person' dengan confidence 0.9068092703819275.
+2024-10-16 22:06:51 INFO: Deteksi objek 'airplane' dengan confidence 0.34100180864334106.
+2024-10-16 22:06:51 INFO: Deteksi dihentikan oleh pengguna.
+2024-10-16 22:06:51 INFO: Deteksi berakhir.
+2024-10-16 22:09:23 INFO: Deteksi dimulai.
+2024-10-16 22:09:28 INFO: Deteksi objek 'person' dengan confidence 0.9284362196922302.
+2024-10-16 22:09:28 INFO: Deteksi objek 'kite' dengan confidence 0.5736968517303467.
+2024-10-16 22:09:28 INFO: Deteksi objek 'person' dengan confidence 0.9298710227012634.
+2024-10-16 22:09:29 INFO: Deteksi objek 'person' dengan confidence 0.9312899112701416.
+2024-10-16 22:09:29 INFO: Deteksi objek 'kite' dengan confidence 0.4341816008090973.
+2024-10-16 22:09:30 INFO: Deteksi objek 'person' dengan confidence 0.9308241009712219.
+2024-10-16 22:09:30 INFO: Deteksi objek 'kite' dengan confidence 0.29167649149894714.
+2024-10-16 22:09:31 INFO: Deteksi objek 'person' dengan confidence 0.9222527146339417.
+2024-10-16 22:09:31 INFO: Deteksi objek 'kite' dengan confidence 0.42052558064460754.
+2024-10-16 22:09:32 INFO: Deteksi objek 'person' dengan confidence 0.9219794869422913.
+2024-10-16 22:09:32 INFO: Deteksi objek 'kite' dengan confidence 0.6167304515838623.
+2024-10-16 22:11:44 INFO: Deteksi dimulai.
+2024-10-16 22:11:49 INFO: Deteksi objek 'person' dengan confidence 0.8985075950622559.
+2024-10-16 22:11:49 INFO: Deteksi objek 'airplane' dengan confidence 0.2837490439414978.
+2024-10-16 22:11:49 INFO: Deteksi objek 'person' dengan confidence 0.690143883228302.
+2024-10-16 22:11:49 INFO: Deteksi objek 'donut' dengan confidence 0.4811001121997833.
+2024-10-16 22:11:50 INFO: Deteksi objek 'airplane' dengan confidence 0.4529050290584564.
+2024-10-16 22:11:50 INFO: Deteksi objek 'person' dengan confidence 0.3164914846420288.
+2024-10-16 22:11:50 INFO: Deteksi objek 'person' dengan confidence 0.2584441602230072.
+2024-10-16 22:11:51 INFO: Deteksi objek 'person' dengan confidence 0.8730396032333374.
+2024-10-16 22:11:52 INFO: Deteksi objek 'person' dengan confidence 0.8886875510215759.
+2024-10-16 22:11:52 INFO: Deteksi objek 'kite' dengan confidence 0.6708991527557373.
+2024-10-16 22:11:53 INFO: Deteksi objek 'person' dengan confidence 0.8834685683250427.
+2024-10-16 22:11:53 INFO: Deteksi objek 'airplane' dengan confidence 0.4334997236728668.
+2024-10-16 22:11:54 INFO: Data akumulasi berhasil disimpan ke database MySQL.
+2024-10-16 22:11:54 INFO: Deteksi objek 'person' dengan confidence 0.7255452275276184.
+2024-10-16 22:11:54 INFO: Deteksi objek 'kite' dengan confidence 0.48745089769363403.
+2024-10-16 22:11:54 INFO: Deteksi objek 'airplane' dengan confidence 0.36138832569122314.
+2024-10-16 22:11:54 INFO: Deteksi objek 'person' dengan confidence 0.35957905650138855.
+2024-10-16 22:11:55 INFO: Deteksi objek 'person' dengan confidence 0.8355375528335571.
+2024-10-16 22:11:55 INFO: Deteksi objek 'airplane' dengan confidence 0.33317574858665466.
+2024-10-16 22:11:56 INFO: Deteksi objek 'person' dengan confidence 0.9226323962211609.
+2024-10-16 22:11:56 INFO: Deteksi objek 'airplane' dengan confidence 0.33272573351860046.
+2024-10-16 22:11:57 INFO: Deteksi objek 'person' dengan confidence 0.9161313772201538.
+2024-10-16 22:11:57 INFO: Deteksi objek 'kite' dengan confidence 0.3458489775657654.
+2024-10-16 22:11:58 INFO: Deteksi objek 'person' dengan confidence 0.9196839928627014.
+2024-10-16 22:11:58 INFO: Deteksi objek 'kite' dengan confidence 0.5923390984535217.
+2024-10-16 22:11:59 INFO: Deteksi objek 'person' dengan confidence 0.9146761298179626.
+2024-10-16 22:11:59 INFO: Deteksi objek 'airplane' dengan confidence 0.4146372079849243.
+2024-10-16 22:12:00 INFO: Deteksi objek 'person' dengan confidence 0.9087830185890198.
+2024-10-16 22:12:00 INFO: Deteksi objek 'airplane' dengan confidence 0.433679461479187.
+2024-10-16 22:12:01 INFO: Deteksi objek 'person' dengan confidence 0.8983368277549744.
+2024-10-16 22:12:01 INFO: Deteksi objek 'airplane' dengan confidence 0.38185352087020874.
+2024-10-16 22:12:02 INFO: Deteksi objek 'person' dengan confidence 0.9164939522743225.
+2024-10-16 22:12:02 INFO: Deteksi objek 'airplane' dengan confidence 0.4487048387527466.
+2024-10-16 22:12:03 INFO: Deteksi objek 'person' dengan confidence 0.8976675271987915.
+2024-10-16 22:12:03 INFO: Deteksi objek 'airplane' dengan confidence 0.5147687196731567.
+2024-10-16 22:12:04 INFO: Data akumulasi berhasil disimpan ke database MySQL.
+2024-10-16 22:12:04 INFO: Deteksi objek 'person' dengan confidence 0.9020248055458069.
+2024-10-16 22:12:04 INFO: Deteksi objek 'airplane' dengan confidence 0.6093204617500305.
+2024-10-16 22:12:05 INFO: Deteksi objek 'person' dengan confidence 0.6559674143791199.
+2024-10-16 22:12:05 INFO: Deteksi objek 'kite' dengan confidence 0.49517306685447693.
+2024-10-16 22:12:05 INFO: Deteksi objek 'person' dengan confidence 0.43056127429008484.
+2024-10-16 22:12:06 INFO: Deteksi objek 'person' dengan confidence 0.5303938984870911.
+2024-10-16 22:12:06 INFO: Deteksi objek 'person' dengan confidence 0.3592078387737274.
+2024-10-16 22:12:07 INFO: Deteksi objek 'person' dengan confidence 0.6489503383636475.
+2024-10-16 22:12:07 INFO: Deteksi objek 'person' dengan confidence 0.44440045952796936.
+2024-10-16 22:12:08 INFO: Deteksi objek 'hot dog' dengan confidence 0.7356390357017517.
+2024-10-16 22:12:08 INFO: Deteksi objek 'person' dengan confidence 0.6483232975006104.
+2024-10-16 22:12:08 INFO: Deteksi objek 'donut' dengan confidence 0.47120213508605957.
+2024-10-16 22:12:08 INFO: Deteksi objek 'person' dengan confidence 0.29054713249206543.
+2024-10-16 22:12:09 INFO: Deteksi objek 'person' dengan confidence 0.7703105807304382.
+2024-10-16 22:12:09 INFO: Deteksi objek 'donut' dengan confidence 0.5800172686576843.
+2024-10-16 22:12:09 INFO: Deteksi objek 'hot dog' dengan confidence 0.5111454129219055.
+2024-10-16 22:12:10 INFO: Deteksi objek 'person' dengan confidence 0.7191304564476013.
+2024-10-16 22:12:10 INFO: Deteksi objek 'hot dog' dengan confidence 0.4046776294708252.
+2024-10-16 22:12:10 INFO: Deteksi objek 'donut' dengan confidence 0.4024268686771393.
+2024-10-16 22:12:11 INFO: Deteksi objek 'donut' dengan confidence 0.8522806167602539.
+2024-10-16 22:12:11 INFO: Deteksi objek 'person' dengan confidence 0.7650356292724609.
+2024-10-16 22:12:11 INFO: Deteksi objek 'airplane' dengan confidence 0.2673734426498413.
+2024-10-16 22:12:11 INFO: Deteksi dihentikan oleh pengguna.
+2024-10-16 22:12:12 INFO: Deteksi berakhir.

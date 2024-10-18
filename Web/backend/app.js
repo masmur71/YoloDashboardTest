@@ -8,7 +8,7 @@ const detectionRoutes = require('../backend/routes/detectionRoutes');
 app.use(express.json());
 
 // Menggunakan routes
-app.use('/api', detectionRoutes);
+app.use('/', detectionRoutes);
 
 // Menangani permintaan ke endpoint lain yang tidak ditemukan
 app.use((req, res) => {

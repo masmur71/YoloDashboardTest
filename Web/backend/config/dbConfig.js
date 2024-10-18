@@ -7,7 +7,7 @@ const dbConfig = {
     host: 'localhost',      
     user: 'root',           
     password: '',   
-    database: 'yolodetect'  
+    database: 'detection_db'  
 };
 
 // Membuat koneksi ke database

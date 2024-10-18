@@ -1,0 +1,45 @@
+2024-10-19 00:46:25 INFO: Deteksi dimulai.
+2024-10-19 00:46:30 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.39839044213294983.
+2024-10-19 00:46:31 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.44868794083595276.
+2024-10-19 00:46:32 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.4440571963787079.
+2024-10-19 00:46:33 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.48424583673477173.
+2024-10-19 00:46:34 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.3619280755519867.
+2024-10-19 00:46:35 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.437634140253067.
+2024-10-19 00:46:36 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.5115719437599182.
+2024-10-19 00:46:37 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.4892156422138214.
+2024-10-19 00:46:38 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.4448164403438568.
+2024-10-19 00:46:39 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.5426612496376038.
+2024-10-19 00:46:40 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.49826523661613464.
+2024-10-19 00:46:41 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.43047669529914856.
+2024-10-19 00:46:42 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.5183582305908203.
+2024-10-19 00:46:42 INFO: Deteksi dihentikan oleh pengguna.
+2024-10-19 00:46:43 INFO: Deteksi berakhir.
+2024-10-19 00:47:29 INFO: Deteksi dimulai.
+2024-10-19 00:47:34 INFO: Deteksi objek 'dosen-staff' dengan confidence 0.3266300559043884.
+2024-10-19 00:47:34 INFO: Deteksi objek 'dosen-staff' dengan confidence 0.48594656586647034.
+2024-10-19 00:47:35 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.3232770562171936.
+2024-10-19 00:47:35 INFO: Deteksi objek 'dosen-staff' dengan confidence 0.2719099521636963.
+2024-10-19 00:47:36 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.2878609895706177.
+2024-10-19 00:47:37 INFO: Deteksi objek 'dosen-staff' dengan confidence 0.30741816759109497.
+2024-10-19 00:47:38 INFO: Deteksi objek 'dosen-staff' dengan confidence 0.2580380141735077.
+2024-10-19 00:47:39 INFO: Data akumulasi berhasil disimpan ke database MySQL.
+2024-10-19 00:47:40 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.2913326323032379.
+2024-10-19 00:47:41 INFO: Deteksi objek 'dosen-staff' dengan confidence 0.31095990538597107.
+2024-10-19 00:47:42 INFO: Deteksi objek 'dosen-staff' dengan confidence 0.2783634662628174.
+2024-10-19 00:47:43 INFO: Deteksi objek 'dosen-staff' dengan confidence 0.3189283609390259.
+2024-10-19 00:47:45 INFO: Deteksi objek 'dosen-staff' dengan confidence 0.2615225315093994.
+2024-10-19 00:47:47 INFO: Deteksi objek 'dosen-staff' dengan confidence 0.3809322118759155.
+2024-10-19 00:47:48 INFO: Deteksi objek 'dosen-staff' dengan confidence 0.3078666031360626.
+2024-10-19 00:47:49 INFO: Deteksi objek 'dosen-staff' dengan confidence 0.2969740927219391.
+2024-10-19 00:47:49 INFO: Data akumulasi berhasil disimpan ke database MySQL.
+2024-10-19 00:47:50 INFO: Deteksi objek 'dosen-staff' dengan confidence 0.27283933758735657.
+2024-10-19 00:47:51 INFO: Deteksi objek 'dosen-staff' dengan confidence 0.6104435324668884.
+2024-10-19 00:47:52 INFO: Deteksi objek 'dosen-staff' dengan confidence 0.5614989995956421.
+2024-10-19 00:47:53 INFO: Deteksi objek 'dosen-staff' dengan confidence 0.6376003623008728.
+2024-10-19 00:47:54 INFO: Deteksi objek 'dosen-staff' dengan confidence 0.519459068775177.
+2024-10-19 00:47:55 INFO: Deteksi objek 'dosen-staff' dengan confidence 0.46427303552627563.
+2024-10-19 00:47:56 INFO: Deteksi objek 'dosen-staff' dengan confidence 0.6011830568313599.
+2024-10-19 00:47:57 INFO: Deteksi objek 'dosen-staff' dengan confidence 0.5941345691680908.
+2024-10-19 00:47:58 INFO: Deteksi objek 'dosen-staff' dengan confidence 0.635540783405304.
+2024-10-19 00:47:58 INFO: Deteksi dihentikan oleh pengguna.
+2024-10-19 00:47:59 INFO: Deteksi berakhir.

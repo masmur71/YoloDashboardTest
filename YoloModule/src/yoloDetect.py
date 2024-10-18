@@ -1,16 +1,13 @@
 import cv2
-import json
 import time
-import os
 import logging
 from datetime import datetime
 from ultralytics import YOLO
-import requests
 import mysql.connector  
 
 # Setup logging
 logging.basicConfig(
-    filename='C:/Users/masmu/OneDrive/Documents/Magang - Lab SI/YoloDashboard/YoloDashboardTest/YoloModule/logs/yolo.log',
+    filename='yolo.log',  # Path ke file log
     level=logging.INFO,
     format='%(asctime)s %(levelname)s: %(message)s',
     datefmt='%Y-%m-%d %H:%M:%S'
@@ -19,9 +16,9 @@ logging.basicConfig(
 # Konfigurasi MySQL
 db_config = {
     'user': 'root',
-    'password': '',  
+    'password': '',  # Sesuaikan dengan password MySQL Anda
     'host': 'localhost',
-    'database': 'yolodetect'
+    'database': 'detection_db'  # Sesuaikan dengan nama database Anda
 }
 
 # Membuat koneksi ke MySQL
@@ -34,10 +31,9 @@ except mysql.connector.Error as err:
     exit(1)  # Menghentikan skrip jika tidak bisa terhubung ke database
 
 # Konfigurasi YOLO dan Deteksi
-MODEL_PATH = 'src/yolov8s.pt'
-SAVE_INTERVAL = 10 # Interval waktu untuk menyimpan data deteksi (5 menit)
+MODEL_PATH = 'mahasiswaOrDosen.pt'
+SAVE_INTERVAL = 10  # Interval waktu untuk menyimpan data deteksi (5 menit)
 DETECTION_INTERVAL = 1  # Interval deteksi dalam detik (1 detik)
-API_ENDPOINT = 'http://localhost:3000/api/detections'  # Endpoint backend untuk mengirim data
 
 # Initialize YOLOv8 model
 model = YOLO(MODEL_PATH)
@@ -49,8 +45,8 @@ if not cap.isOpened():
     logging.error("Tidak bisa mengakses webcam.")
     exit(1)
 
-people_count = 0
-detection_summary = {}
+total_mahasiswa_count = 0
+total_dosen_staff_count = 0
 start_time = time.time()
 save_time = start_time  # Variabel baru untuk mengatur interval penyimpanan data
 
@@ -71,20 +67,14 @@ while True:
         results = model(frame)
 
         # Process detection results
-        frame_people_count = 0
-
         for r in results:
             for box in r.boxes:
                 cls = r.names[int(box.cls[0])]
                 conf = box.conf[0].item()  # Konversi tensor menjadi float serta Ambil confidence score
-                if cls == "person":
-                    frame_people_count += 1
-
-                # Akumulasi informasi deteksi
-                if cls in detection_summary:
-                    detection_summary[cls] += 1
-                else:
-                    detection_summary[cls] = 1
+                if cls == "mahasiswa":
+                    total_mahasiswa_count += 1
+                elif cls == "dosen-staff":
+                    total_dosen_staff_count += 1
 
                 logging.info(f"Deteksi objek '{cls}' dengan confidence {conf}.")
 
@@ -95,9 +85,6 @@ while True:
                 cv2.putText(frame, f'{cls} ({conf:.2f})', (x1, y1 - 10), cv2.FONT_HERSHEY_SIMPLEX, 0.9, (36, 255, 12), 2)
                 cv2.rectangle(frame, (x1, y1), (x2, y2), (36, 255, 12), 2)
 
-        # Jumlah people count
-        people_count += frame_people_count
-
         # Tampilkan frame
         cv2.imshow('YOLOv8 Detection', frame)
 
@@ -105,20 +92,21 @@ while True:
     if time.time() - save_time > SAVE_INTERVAL:
         # Simpan ke SQL
         try:
-            for label, count in detection_summary.items():
-                cursor.execute("""
-                    INSERT INTO detections (label, confidence, timestamp, total_people_count)
-                    VALUES (%s, %s, %s, %s)
-                """, (label, conf, datetime.now().strftime("%Y-%m-%d %H:%M:%S"), count))
+            # Simpan total mahasiswa dan dosen-staff yang terdeteksi selama interval
+            cursor.execute("""
+                INSERT INTO PeopleCount (detection_time, total_mahasiswa_count, total_dosen_staff_count)
+                VALUES (%s, %s, %s)
+            """, (datetime.now().strftime("%Y-%m-%d %H:%M:%S"), total_mahasiswa_count, total_dosen_staff_count))
             db_connection.commit()
             logging.info("Data akumulasi berhasil disimpan ke database MySQL.")
+
         except mysql.connector.Error as e:
             logging.error(f"Error saat menyimpan data ke MySQL: {e}")
             db_connection.rollback()
 
-        # Clear data akumulasi dan reset waktu (setiap 5 menit)
-        detection_summary = {}
-        people_count = 0
+        # Reset counts dan waktu penyimpanan (setiap 5 menit)
+        total_mahasiswa_count = 0
+        total_dosen_staff_count = 0
         save_time = time.time()  # Reset waktu
 
     # Exit program saat tekan 'q'

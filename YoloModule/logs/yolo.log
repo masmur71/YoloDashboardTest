@@ -169,3 +169,219 @@
 2024-10-16 22:12:11 INFO: Deteksi objek 'airplane' dengan confidence 0.2673734426498413.
 2024-10-16 22:12:11 INFO: Deteksi dihentikan oleh pengguna.
 2024-10-16 22:12:12 INFO: Deteksi berakhir.
+2024-10-17 13:45:00 INFO: Deteksi dimulai.
+2024-10-17 13:45:07 INFO: Deteksi objek 'person' dengan confidence 0.8694698810577393.
+2024-10-17 13:45:07 INFO: Deteksi objek 'person' dengan confidence 0.6383906006813049.
+2024-10-17 13:45:07 INFO: Deteksi objek 'snowboard' dengan confidence 0.2907232940196991.
+2024-10-17 13:45:07 INFO: Deteksi objek 'person' dengan confidence 0.9298446178436279.
+2024-10-17 13:45:07 INFO: Deteksi objek 'person' dengan confidence 0.31322240829467773.
+2024-10-17 13:45:08 INFO: Deteksi objek 'person' dengan confidence 0.9194486141204834.
+2024-10-17 13:45:09 INFO: Deteksi objek 'person' dengan confidence 0.9386736154556274.
+2024-10-17 13:45:09 INFO: Deteksi objek 'person' dengan confidence 0.8187806010246277.
+2024-10-17 13:45:10 INFO: Deteksi objek 'person' dengan confidence 0.9214455485343933.
+2024-10-17 13:45:10 INFO: Deteksi objek 'person' dengan confidence 0.5718594193458557.
+2024-10-17 13:45:11 INFO: Data akumulasi berhasil disimpan ke database MySQL.
+2024-10-17 13:45:11 INFO: Deteksi objek 'person' dengan confidence 0.9377986788749695.
+2024-10-17 13:45:11 INFO: Deteksi objek 'person' dengan confidence 0.913926899433136.
+2024-10-17 13:45:12 INFO: Deteksi objek 'person' dengan confidence 0.9370554089546204.
+2024-10-17 13:45:12 INFO: Deteksi objek 'person' dengan confidence 0.9075760841369629.
+2024-10-17 13:45:13 INFO: Deteksi objek 'person' dengan confidence 0.9061080813407898.
+2024-10-17 13:45:13 INFO: Deteksi objek 'person' dengan confidence 0.8037961721420288.
+2024-10-17 13:45:13 INFO: Deteksi objek 'cell phone' dengan confidence 0.31975671648979187.
+2024-10-17 13:45:14 INFO: Deteksi objek 'person' dengan confidence 0.9014849662780762.
+2024-10-17 13:45:14 INFO: Deteksi objek 'person' dengan confidence 0.4764576256275177.
+2024-10-17 13:45:14 INFO: Deteksi objek 'person' dengan confidence 0.31763458251953125.
+2024-10-17 13:45:15 INFO: Deteksi objek 'person' dengan confidence 0.9068203568458557.
+2024-10-17 13:45:15 INFO: Deteksi objek 'cell phone' dengan confidence 0.6481000185012817.
+2024-10-17 13:45:15 INFO: Deteksi objek 'cell phone' dengan confidence 0.6341269612312317.
+2024-10-17 13:45:15 INFO: Deteksi objek 'person' dengan confidence 0.5167566537857056.
+2024-10-17 13:45:15 INFO: Deteksi objek 'person' dengan confidence 0.362551748752594.
+2024-10-17 13:45:16 INFO: Deteksi objek 'person' dengan confidence 0.9120280742645264.
+2024-10-17 13:45:16 INFO: Deteksi objek 'person' dengan confidence 0.4801754653453827.
+2024-10-17 13:45:16 INFO: Deteksi objek 'cell phone' dengan confidence 0.3568040132522583.
+2024-10-17 13:45:16 INFO: Deteksi objek 'person' dengan confidence 0.35541296005249023.
+2024-10-17 13:45:16 INFO: Deteksi objek 'cell phone' dengan confidence 0.27141502499580383.
+2024-10-17 13:45:18 INFO: Deteksi objek 'person' dengan confidence 0.9250665307044983.
+2024-10-17 13:45:18 INFO: Deteksi objek 'person' dengan confidence 0.9063409566879272.
+2024-10-17 13:45:19 INFO: Deteksi objek 'person' dengan confidence 0.9453610181808472.
+2024-10-17 13:45:19 INFO: Deteksi objek 'person' dengan confidence 0.918577253818512.
+2024-10-17 13:45:19 INFO: Deteksi objek 'tie' dengan confidence 0.5054164528846741.
+2024-10-17 13:45:19 INFO: Deteksi dihentikan oleh pengguna.
+2024-10-17 13:45:19 INFO: Deteksi berakhir.
+2024-10-17 13:49:34 INFO: Deteksi dimulai.
+2024-10-17 13:49:39 INFO: Deteksi objek 'person' dengan confidence 0.9388374090194702.
+2024-10-17 13:49:39 INFO: Deteksi objek 'person' dengan confidence 0.34382572770118713.
+2024-10-17 13:49:39 INFO: Deteksi objek 'person' dengan confidence 0.92556232213974.
+2024-10-17 13:49:39 INFO: Deteksi objek 'tie' dengan confidence 0.5229349732398987.
+2024-10-17 13:49:39 INFO: Deteksi objek 'person' dengan confidence 0.36952272057533264.
+2024-10-17 13:49:41 INFO: Deteksi objek 'person' dengan confidence 0.9169946312904358.
+2024-10-17 13:49:41 INFO: Deteksi objek 'person' dengan confidence 0.3101823329925537.
+2024-10-17 13:49:42 INFO: Deteksi objek 'person' dengan confidence 0.9239039421081543.
+2024-10-17 13:49:42 INFO: Deteksi objek 'person' dengan confidence 0.3206745684146881.
+2024-10-17 13:49:43 INFO: Deteksi objek 'person' dengan confidence 0.9165207147598267.
+2024-10-17 13:49:43 INFO: Deteksi objek 'person' dengan confidence 0.3959641456604004.
+2024-10-17 13:49:44 INFO: Deteksi objek 'person' dengan confidence 0.920104444026947.
+2024-10-17 13:49:44 INFO: Deteksi objek 'person' dengan confidence 0.34269973635673523.
+2024-10-17 13:49:44 INFO: Data akumulasi berhasil disimpan ke database MySQL.
+2024-10-17 13:49:45 INFO: Deteksi objek 'person' dengan confidence 0.8616804480552673.
+2024-10-17 13:49:45 INFO: Deteksi objek 'tie' dengan confidence 0.3851054906845093.
+2024-10-17 13:49:46 INFO: Deteksi objek 'person' dengan confidence 0.9421446323394775.
+2024-10-17 13:49:46 INFO: Deteksi objek 'person' dengan confidence 0.9273635745048523.
+2024-10-17 13:49:47 INFO: Deteksi objek 'person' dengan confidence 0.9076808094978333.
+2024-10-17 13:49:47 INFO: Deteksi objek 'person' dengan confidence 0.9053716659545898.
+2024-10-17 13:49:48 INFO: Deteksi objek 'person' dengan confidence 0.9328094720840454.
+2024-10-17 13:49:48 INFO: Deteksi objek 'person' dengan confidence 0.9282594323158264.
+2024-10-17 13:49:49 INFO: Deteksi objek 'person' dengan confidence 0.9306971430778503.
+2024-10-17 13:49:49 INFO: Deteksi objek 'person' dengan confidence 0.8798256516456604.
+2024-10-17 13:49:50 INFO: Deteksi objek 'person' dengan confidence 0.8481469750404358.
+2024-10-17 13:49:50 INFO: Deteksi objek 'person' dengan confidence 0.8446488380432129.
+2024-10-17 13:49:51 INFO: Deteksi objek 'person' dengan confidence 0.8784255385398865.
+2024-10-17 13:49:51 INFO: Deteksi objek 'person' dengan confidence 0.836588978767395.
+2024-10-17 13:49:51 INFO: Deteksi objek 'person' dengan confidence 0.8206665515899658.
+2024-10-17 13:49:51 INFO: Deteksi objek 'laptop' dengan confidence 0.33697304129600525.
+2024-10-17 13:49:52 INFO: Deteksi objek 'person' dengan confidence 0.8432402610778809.
+2024-10-17 13:49:52 INFO: Deteksi objek 'person' dengan confidence 0.5843285918235779.
+2024-10-17 13:49:52 INFO: Deteksi objek 'person' dengan confidence 0.4714527130126953.
+2024-10-17 13:49:52 INFO: Deteksi objek 'laptop' dengan confidence 0.45861029624938965.
+2024-10-17 13:49:52 INFO: Deteksi objek 'person' dengan confidence 0.3809051811695099.
+2024-10-17 13:49:53 INFO: Deteksi objek 'person' dengan confidence 0.685840904712677.
+2024-10-17 13:49:53 INFO: Deteksi objek 'person' dengan confidence 0.5879242420196533.
+2024-10-17 13:49:53 INFO: Deteksi objek 'person' dengan confidence 0.5540631413459778.
+2024-10-17 13:49:53 INFO: Deteksi objek 'laptop' dengan confidence 0.42122095823287964.
+2024-10-17 13:49:53 INFO: Deteksi objek 'person' dengan confidence 0.34354570508003235.
+2024-10-17 13:49:54 INFO: Deteksi objek 'person' dengan confidence 0.8569527864456177.
+2024-10-17 13:49:54 INFO: Deteksi objek 'person' dengan confidence 0.700916588306427.
+2024-10-17 13:49:54 INFO: Deteksi objek 'person' dengan confidence 0.5578799843788147.
+2024-10-17 13:49:54 INFO: Deteksi objek 'laptop' dengan confidence 0.3862403929233551.
+2024-10-17 13:49:54 INFO: Deteksi objek 'laptop' dengan confidence 0.3726476728916168.
+2024-10-17 13:49:54 INFO: Deteksi objek 'person' dengan confidence 0.3372527062892914.
+2024-10-17 13:49:54 INFO: Data akumulasi berhasil disimpan ke database MySQL.
+2024-10-17 13:49:55 INFO: Deteksi objek 'person' dengan confidence 0.8111100196838379.
+2024-10-17 13:49:55 INFO: Deteksi objek 'person' dengan confidence 0.4083983898162842.
+2024-10-17 13:49:55 INFO: Deteksi objek 'person' dengan confidence 0.36555594205856323.
+2024-10-17 13:49:55 INFO: Deteksi objek 'person' dengan confidence 0.2885337769985199.
+2024-10-17 13:49:55 INFO: Deteksi objek 'laptop' dengan confidence 0.2672998011112213.
+2024-10-17 13:49:55 INFO: Deteksi objek 'person' dengan confidence 0.2634320855140686.
+2024-10-17 13:49:56 INFO: Deteksi objek 'person' dengan confidence 0.5828009247779846.
+2024-10-17 13:49:56 INFO: Deteksi objek 'person' dengan confidence 0.5185500383377075.
+2024-10-17 13:49:56 INFO: Deteksi objek 'person' dengan confidence 0.5067766308784485.
+2024-10-17 13:49:56 INFO: Deteksi objek 'person' dengan confidence 0.4050155282020569.
+2024-10-17 13:49:56 INFO: Deteksi objek 'laptop' dengan confidence 0.28520667552948.
+2024-10-17 13:49:57 INFO: Deteksi objek 'person' dengan confidence 0.717587947845459.
+2024-10-17 13:49:57 INFO: Deteksi objek 'person' dengan confidence 0.43188732862472534.
+2024-10-17 13:49:57 INFO: Deteksi objek 'person' dengan confidence 0.32568466663360596.
+2024-10-17 13:49:57 INFO: Deteksi objek 'person' dengan confidence 0.32550907135009766.
+2024-10-17 13:49:57 INFO: Deteksi objek 'laptop' dengan confidence 0.2597739100456238.
+2024-10-17 13:49:58 INFO: Deteksi objek 'person' dengan confidence 0.6190891265869141.
+2024-10-17 13:49:58 INFO: Deteksi objek 'person' dengan confidence 0.6160387992858887.
+2024-10-17 13:49:58 INFO: Deteksi objek 'person' dengan confidence 0.5066747665405273.
+2024-10-17 13:49:58 INFO: Deteksi objek 'laptop' dengan confidence 0.3138349950313568.
+2024-10-17 13:49:58 INFO: Deteksi objek 'person' dengan confidence 0.3071752190589905.
+2024-10-17 13:49:59 INFO: Deteksi objek 'person' dengan confidence 0.8964309692382812.
+2024-10-17 13:49:59 INFO: Deteksi objek 'person' dengan confidence 0.5955766439437866.
+2024-10-17 13:49:59 INFO: Deteksi objek 'person' dengan confidence 0.5872657299041748.
+2024-10-17 13:49:59 INFO: Deteksi objek 'laptop' dengan confidence 0.518300473690033.
+2024-10-17 13:49:59 INFO: Deteksi objek 'laptop' dengan confidence 0.2535872459411621.
+2024-10-17 13:50:00 INFO: Deteksi objek 'person' dengan confidence 0.8958342671394348.
+2024-10-17 13:50:00 INFO: Deteksi objek 'person' dengan confidence 0.809066653251648.
+2024-10-17 13:50:00 INFO: Deteksi objek 'person' dengan confidence 0.7087732553482056.
+2024-10-17 13:50:00 INFO: Deteksi objek 'laptop' dengan confidence 0.4480302333831787.
+2024-10-17 13:50:00 INFO: Deteksi objek 'laptop' dengan confidence 0.3485186994075775.
+2024-10-17 13:50:00 INFO: Deteksi objek 'person' dengan confidence 0.2559177279472351.
+2024-10-17 13:50:01 INFO: Deteksi objek 'person' dengan confidence 0.8644899129867554.
+2024-10-17 13:50:01 INFO: Deteksi objek 'person' dengan confidence 0.8375091552734375.
+2024-10-17 13:50:01 INFO: Deteksi objek 'person' dengan confidence 0.5939812064170837.
+2024-10-17 13:50:01 INFO: Deteksi objek 'laptop' dengan confidence 0.40162569284439087.
+2024-10-17 13:50:01 INFO: Deteksi objek 'person' dengan confidence 0.30190879106521606.
+2024-10-17 13:50:01 INFO: Deteksi objek 'laptop' dengan confidence 0.25668659806251526.
+2024-10-17 13:50:02 INFO: Deteksi objek 'person' dengan confidence 0.7943824529647827.
+2024-10-17 13:50:02 INFO: Deteksi objek 'person' dengan confidence 0.5744608640670776.
+2024-10-17 13:50:02 INFO: Deteksi objek 'person' dengan confidence 0.5407556891441345.
+2024-10-17 13:50:02 INFO: Deteksi objek 'person' dengan confidence 0.4474134147167206.
+2024-10-17 13:50:02 INFO: Deteksi objek 'laptop' dengan confidence 0.4153498709201813.
+2024-10-17 13:50:02 INFO: Deteksi objek 'laptop' dengan confidence 0.3172748386859894.
+2024-10-17 13:50:03 INFO: Deteksi objek 'person' dengan confidence 0.8019459247589111.
+2024-10-17 13:50:03 INFO: Deteksi objek 'person' dengan confidence 0.7856505513191223.
+2024-10-17 13:50:03 INFO: Deteksi objek 'laptop' dengan confidence 0.4115332365036011.
+2024-10-17 13:50:03 INFO: Deteksi objek 'person' dengan confidence 0.2907831370830536.
+2024-10-17 13:50:04 INFO: Deteksi objek 'person' dengan confidence 0.8950735926628113.
+2024-10-17 13:50:04 INFO: Deteksi objek 'person' dengan confidence 0.8569197058677673.
+2024-10-17 13:50:04 INFO: Deteksi objek 'person' dengan confidence 0.847762405872345.
+2024-10-17 13:50:04 INFO: Data akumulasi berhasil disimpan ke database MySQL.
+2024-10-17 13:50:05 INFO: Deteksi objek 'person' dengan confidence 0.8139219880104065.
+2024-10-17 13:50:05 INFO: Deteksi objek 'person' dengan confidence 0.6756548285484314.
+2024-10-17 13:50:05 INFO: Deteksi objek 'person' dengan confidence 0.40234875679016113.
+2024-10-17 13:50:05 INFO: Deteksi objek 'person' dengan confidence 0.3315316140651703.
+2024-10-17 13:50:06 INFO: Deteksi objek 'person' dengan confidence 0.844538152217865.
+2024-10-17 13:50:06 INFO: Deteksi objek 'person' dengan confidence 0.8247565627098083.
+2024-10-17 13:50:06 INFO: Deteksi dihentikan oleh pengguna.
+2024-10-17 13:50:06 INFO: Deteksi berakhir.
+2024-10-18 23:33:26 INFO: Deteksi dimulai.
+2024-10-18 23:33:37 INFO: Data akumulasi berhasil disimpan ke database MySQL.
+2024-10-18 23:33:44 INFO: Deteksi dihentikan oleh pengguna.
+2024-10-18 23:33:44 INFO: Deteksi berakhir.
+2024-10-18 23:34:33 INFO: Deteksi dimulai.
+2024-10-18 23:34:37 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.2938910722732544.
+2024-10-18 23:34:37 INFO: Deteksi objek 'dosen-staff' dengan confidence 0.29384860396385193.
+2024-10-18 23:34:37 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.28591635823249817.
+2024-10-18 23:34:38 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.2818566560745239.
+2024-10-18 23:34:41 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.32792404294013977.
+2024-10-18 23:34:42 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.29536712169647217.
+2024-10-18 23:34:43 INFO: Data akumulasi berhasil disimpan ke database MySQL.
+2024-10-18 23:34:43 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.27481770515441895.
+2024-10-18 23:34:44 INFO: Deteksi objek 'dosen-staff' dengan confidence 0.3162752091884613.
+2024-10-18 23:34:52 INFO: Deteksi objek 'dosen-staff' dengan confidence 0.3626644015312195.
+2024-10-18 23:34:52 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.2755630314350128.
+2024-10-18 23:34:53 INFO: Data akumulasi berhasil disimpan ke database MySQL.
+2024-10-18 23:34:53 INFO: Deteksi objek 'dosen-staff' dengan confidence 0.36717164516448975.
+2024-10-18 23:34:53 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.3472992181777954.
+2024-10-18 23:34:54 INFO: Deteksi objek 'dosen-staff' dengan confidence 0.38553962111473083.
+2024-10-18 23:34:54 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.3329276144504547.
+2024-10-18 23:34:55 INFO: Deteksi objek 'dosen-staff' dengan confidence 0.405222088098526.
+2024-10-18 23:34:55 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.31640222668647766.
+2024-10-18 23:34:57 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.37676477432250977.
+2024-10-18 23:34:57 INFO: Deteksi dihentikan oleh pengguna.
+2024-10-18 23:34:57 INFO: Deteksi berakhir.
+2024-10-18 23:36:56 INFO: Deteksi dimulai.
+2024-10-18 23:37:03 INFO: Deteksi objek 'dosen-staff' dengan confidence 0.3658970594406128.
+2024-10-18 23:37:03 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.33033570647239685.
+2024-10-18 23:37:04 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.3382253646850586.
+2024-10-18 23:37:05 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.38929274678230286.
+2024-10-18 23:37:06 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.34359320998191833.
+2024-10-18 23:37:06 INFO: Data akumulasi berhasil disimpan ke database MySQL.
+2024-10-18 23:37:07 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.345807284116745.
+2024-10-18 23:37:08 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.33755356073379517.
+2024-10-18 23:37:09 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.3230223059654236.
+2024-10-18 23:37:10 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.392801970243454.
+2024-10-18 23:37:11 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.37418925762176514.
+2024-10-18 23:37:12 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.3440209925174713.
+2024-10-18 23:37:13 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.3364165127277374.
+2024-10-18 23:37:15 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.37131088972091675.
+2024-10-18 23:37:16 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.3714772164821625.
+2024-10-18 23:37:16 INFO: Data akumulasi berhasil disimpan ke database MySQL.
+2024-10-18 23:37:17 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.340591162443161.
+2024-10-18 23:37:18 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.3963075280189514.
+2024-10-18 23:37:19 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.4173946678638458.
+2024-10-18 23:37:20 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.383127897977829.
+2024-10-18 23:37:21 INFO: Deteksi objek 'dosen-staff' dengan confidence 0.37973228096961975.
+2024-10-18 23:37:21 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.2560063898563385.
+2024-10-18 23:37:22 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.3279162645339966.
+2024-10-18 23:37:22 INFO: Deteksi objek 'dosen-staff' dengan confidence 0.3265646696090698.
+2024-10-18 23:37:23 INFO: Deteksi objek 'dosen-staff' dengan confidence 0.35251230001449585.
+2024-10-18 23:37:23 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.28801003098487854.
+2024-10-18 23:37:24 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.41354262828826904.
+2024-10-18 23:37:25 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.40913012623786926.
+2024-10-18 23:37:26 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.4604068994522095.
+2024-10-18 23:37:26 INFO: Data akumulasi berhasil disimpan ke database MySQL.
+2024-10-18 23:37:27 INFO: Deteksi objek 'dosen-staff' dengan confidence 0.4268897473812103.
+2024-10-18 23:37:28 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.2815789580345154.
+2024-10-18 23:37:29 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.35711869597435.
+2024-10-18 23:37:30 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.3428680896759033.
+2024-10-18 23:37:30 INFO: Deteksi objek 'dosen-staff' dengan confidence 0.3114875555038452.
+2024-10-18 23:37:31 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.3362661302089691.
+2024-10-18 23:37:32 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.3724255859851837.
+2024-10-18 23:37:33 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.40453553199768066.
+2024-10-18 23:37:34 INFO: Deteksi objek 'mahasiswa' dengan confidence 0.25754499435424805.
+2024-10-18 23:37:36 INFO: Deteksi objek 'dosen-staff' dengan confidence 0.2584262490272522.
+2024-10-18 23:37:36 INFO: Deteksi dihentikan oleh pengguna.
+2024-10-18 23:37:37 INFO: Deteksi berakhir.
